@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet"
+   href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" 
+   integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn"
+   crossorigin="anonymous">
+   <title>Психолог-онлайн Александра Шевцова - официальный сайт</title>
+   <link rel="shortcut icon" href="/Picture/logologo.png">
+   <style>
+      body {
+         background-color: rgb(255, 230, 207); 
+      }
+      #logo {
+         width: 50px;
+         height: 50px;
+      }
+   </style>
+</head>
+<body>
+   <img src="" alt="">
+   <div class="text-center"><a href="https://vk.com/vladislava.lynx" class="badge badge-warning">Связаться со мной</a></div>
+
+   <div class="container">
+      <div class="row mt-6">
+         <div class="col-md-6 ">
+               <h2>Онлайн-психолог<h1><p class="font-weight-bolder text-warning">Александра Шевцова</p></h1></h2>
+               <h5>Дипломированный, практикующий специалист</h5>
+               <h6>Опыт работы 5 лет</h6>
+            <a href="#scroling"><button type="button" class="btn btn-outline-warning btn-sm shadow-sm rounded">Отзывы</button></a>
+            <br>
+            <br>
+            <br>
+            <h4>Более 500+ довольных клиентов</h4>
+            <div class="card border border-warning shadow-sm p-2 mb-5 bg-white rounded">
+               <div class="card-body ">
+                  <h5 class="card-title">С какими вопросами я помогаю:</h5>
+                  <p class="card-text">
+                     <ul>
+                        <li>Проблемы в отношениях</li>
+                        <li>Эмоциональное выгорание</li>
+                        <li>Самооценка, неуверенность в себе</li>
+                        <li>Любовная зависимость</li>
+                        <li>Депрессия</li>
+                        <li>Фобии и тревога</li>
+                        <li>Принятие решений и мотивация</li>
+                     </ul></p>
+                     <a href="#scroling1"><button type="button"  class="btn btn-warning btn-lg btn-block shadow-sm rounded">Заказать консультацию</button></a>
+                     <br>
+                     <blockquote class="blockquote text-right">
+                        <p class="mb-0"><em><small>Любая, даже самая сложная и проблемная ситуация, имеет решение.
+                     Моя задача — помочь Вам ее решить и предотвратить её повторение в дальнейшем.</p>
+                        <footer class="blockquote-footer">Психолог <cite title="Название источника">Александра Шевцова</cite></footer></small></em>
+                        </blockquote>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-6">
+            <img src="/Picture/girl.png" class="rounded img-fluid" alt="...">
+      </div>
+      </div>
+   </div>
+   <br>
+<!-- Start 2 block -->
+   <div class="p-3 mb-2 bg-warning text-white text-center"><h4 id="scroling1">Консультации: </h4></div>
+   <br>
+   <div class="container">
+      <div class="row">
+         <div class="col-md-4">
+            <div class="card h-100 border border-warning shadow-sm p-3 mb-5 bg-white rounded">
+               <img src="/Picture/hum2.jpg" class="card-img-top fluid" alt="...">
+               <div class="card-body">
+                  <h5 class="card-title text-center">Первичная консультация</h5>
+                  <p class="card-text">
+                     <ul><li>Онлайн (формат: видеозвонок по WhatsApp или Telegram).</li>
+                        <li>Продолжительность: 30 минут.</li></ul>
+                  </p>
+                  <a href="#" data-toggle="modal" data-target="#exampleModal" class="btn btn-warning center btn-block shadow-sm rounded">Стоимость 1 000 рублей</a>
+                  <!-- Модальное окно -->
+                  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                     <div class="modal-dialog">
+                        <div class="modal-content">
+                           <div class="modal-header">
+                              <h5 class="modal-title" id="exampleModalLabel">Оплата</h5>
+                              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                 <span aria-hidden="true">&times;</span>
+                              </button>
+                           </div>
+                           <div class="modal-body">
+                              Оплата происходит переводом на карту Сбербанк 123456789123 на имя Александра Алексеевна Ш.
+                           </div>
+                           <div class="modal-footer">
+                              <button type="button" class="btn btn-secondary" data-dismiss="modal">Закрыть</button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-4">
+            <div class="card h-100 border border-warning shadow-sm p-3 mb-5 bg-white rounded">
+               <img src="/Picture/hum3.jpg" class="card-img-top" alt="...">
+               <div class="card-body">
+                  <h5 class="card-title text-center">Одна консультация</h5>
+                  <p class="card-text">
+                     <ul><li>Онлайн (формат: видеозвонок по WhatsApp или Telegram).</li>
+                     <li>Продолжительность: 60 минут.</li></ul>
+                  <a href="#" data-toggle="modal" data-target="#exampleModal" class="btn btn-warning center btn-block shadow-sm rounded">Стоимость 5 000 рублей</a>
+                  <!-- Модальное окно -->
+                  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                     <div class="modal-dialog">
+                        <div class="modal-content">
+                           <div class="modal-header">
+                              <h5 class="modal-title" id="exampleModalLabel">Оплата</h5>
+                              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                 <span aria-hidden="true">&times;</span>
+                              </button>
+                           </div>
+                           <div class="modal-body">
+                              Оплата происходит переводом на карту Сбербанк 123456789123 на имя Александра Алексеевна Ш.
+                           </div>
+                           <div class="modal-footer">
+                              <button type="button" class="btn btn-secondary" data-dismiss="modal">Закрыть</button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-md-4">
+            <div class="card h-100 border border-warning shadow-sm p-3 mb-5 bg-white rounded">
+               <img src="/Picture/hum1.jpg" class="card-img-top" alt="...">
+               <div class="card-body">
+                  <h5 class="card-title text-center">Абонемент на 8 консультаций</h5>
+                  <p class="card-text">
+                     <ul><li>Онлайн (формат: видеозвонок по WhatsApp или Telegram).
+                        <li>Продолжительность: 60 минут.
+                        <li>Действителен 45 дней с момента покупки.</li></ul></p>
+                     <a href="#" data-toggle="modal" data-target="#exampleModal" class="btn btn-warning center btn-block shadow-sm rounded">Стоимость 30 000 рублей</a>
+                     <!-- Модальное окно -->
+                     <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                           <div class="modal-content">
+                              <div class="modal-header">
+                                 <h5 class="modal-title" id="exampleModalLabel">Оплата</h5>
+                                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                 </button>
+                              </div>
+                              <div class="modal-body">
+                                 плата происходит переводом на карту Сбербанк 123456789123 на имя Александра Алексеевна Ш.
+                              </div>
+                              <div class="modal-footer">
+                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Закрыть</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+               </div>
+            </div>      
+         </div>
+      </div>
+   </div>
+      <br>
+      <br>
+<!-- End 2 block -->
+<!-- Start 3 block -->
+      <div class="p-3 mb-2 bg-warning text-white text-center"><h4>Неоднократно были проработаны такие темы как:</h4></div>
+   <br>
+   <div class="container-fluid">
+      <div class="row">
+         <div class="col-md-4">
+            <div class="card" style="max-width: 540px;">
+               <div class="card-body">
+                  <h5 class="card-title">Отношения</h5>
+                     <p class="card-text"><ul><li>Мне тяжело после расставания</li>
+                     <li>У нас много конфликтов</li>
+                     <li>Я не могу найти пару</li></p>
+               </div>
+            </div>
+   <br>
+         <div class="card" style="max-width: 540px;">
+            <div class="card-body" >
+               <h5 class="card-title">Самооценка</h5>
+                  <p class="card-text"><ul><li>У меня ничего не получится</li>
+                  <li>Я себе не нравлюсь</li>
+                  <li>Я плохой человек, не верю в себя</li></p>
+            </div>
+         </div>
+         </div>
+   <br>
+   <div class="col-md-4">
+      <div class="card" style="max-width: 540px;">
+         <div class="card-body" >
+            <h5 class="card-title">Эмоциональное выгорание</h5>
+            <p class="card-text"><ul><li>У меня ничего не получится</li>
+               <li>Я себе не нравлюсь</li>
+               <li>Я плохой человек, не верю в себя</li></p>
+         </div>
+      </div>
+   <br>
+      <div class="card" style="max-width: 540px;">
+         <div class="card-body" >
+            <h5 class="card-title">Депрессия</h5>
+            <p class="card-text"><ul><li>Не знаю, как встать с кровати</li>
+               <li>Не понимаю, зачем мне жить</li>
+               <li>Не могу найти сил на жизнь</li></p>
+         </div>
+      </div>
+   </div>
+   <br>
+   <div class="col-md-4">
+   <div class="card" style="max-width: 540px;">
+      <div class="card-body" >
+         <h5 class="card-title">Фобии и тревоги</h5>
+         <p class="card-text"><ul><li>Мне часто неспокойно</li>
+            <li>Сильный страх, не могу справиться</li>
+            <li>Часто тревожные мысли перед сном</li></p>
+      </div>
+   </div>
+   <br>
+   <div class="card" style="max-width: 540px;">
+      <div class="card-body">
+         <h5 class="card-title">Принятие решений и мотивация</h5>
+         <p class="card-text"><ul><li>Тяну до последнего</li>
+            <li>Не могу принять важные решения</li>
+            <li>Нет уверенности в своих действиях</li></p>
+      </div>
+   </div></div></div></div>
+   <br>
+<!-- End 3 block -->
+<!-- Start 4 block -->
+   <div class="p-3 mb-3 bg-warning text-white text-center "><h4 id="scroling">Отзывы о моей работе: </h4></div>
+   
+   <div id="carouselExampleControls" class="carousel slide p-3 mx-auto img-thumbnail border border-warning" data-ride="carousel" style="max-width: 440px;">
+      <div class="carousel-inner">
+         <div class="carousel-item active">
+            <img src="/Picture/comment1.jpg" class="d-block w-100" alt="...">
+         </div>
+         <div class="carousel-item">
+            <img src="/Picture/comment2.jpg" class="d-block w-100" alt="...">
+         </div>
+         <div class="carousel-item">
+            <img src="/Picture/comment3.jpg" class="d-block w-100" alt="...">
+         </div>
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+         <span class="sr-only">Предыдущий</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+         <span class="carousel-control-next-icon" aria-hidden="true"></span>
+         <span class="sr-only">Следующий</span>
+      </a>
+   </div>
+   <br>
+   <img>
+<!-- End 3 block -->
+<!-- footer start -->
+      <footer class="container-fluid text-center p-1" style="background-color: rgb(230, 183, 28);">
+			<font style="color:rgb(0, 0, 0)">© Все права защищены 2022 ©</font>
+         <p class="font-weight-bold">www@www.ru</p>
+         <img src="/Picture/logologo.png" alt="" id="logo">
+         <br>
+		</footer>
+<!-- footer end -->
+
+<script>
+   document.querySelectorAll('a[href^="#"').forEach(link => {
+
+      link.addEventListener('click', function(e) {
+         e.preventDefault();
+         let href = this.getAttribute('href').substring(1);
+         const scrollTarget = document.getElementById(href);
+         const topOffset = 0;
+         const elementPosition = scrollTarget.getBoundingClientRect().top;
+         const offsetPosition = elementPosition - topOffset;
+         window.scrollBy({
+            top: offsetPosition,
+            behavior: 'smooth'
+         });
+      });
+   });
+
+</script>
+   <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
+</body>
+</html>
